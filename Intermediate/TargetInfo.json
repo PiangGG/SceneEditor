@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SceneEditor",
+			"Path": "D:\\Code\\UnrealEngine\\SceneEditor\\Source\\SceneEditor.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SceneEditorEditor",
+			"Path": "D:\\Code\\UnrealEngine\\SceneEditor\\Source\\SceneEditorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
